@@ -1,0 +1,9 @@
+Flask
+flask-cors
+peft
+transformers
+torch
+nltk
+PyMuPDF
+gunicorn
+pdfplumber

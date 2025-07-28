@@ -1,9 +1,8 @@
 Flask
 flask-cors
-peft
 transformers
 torch
-nltk
-PyMuPDF
+sentencepiece
 gunicorn
+PyMuPDF
 pdfplumber
